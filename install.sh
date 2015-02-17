@@ -105,7 +105,7 @@ apt-get -q -y install dnsmasq
 
 # Download
 wget -O /etc/rc.local https://raw.githubusercontent.com/maxexcloo/DNS-Tunnel/master/conf/rc.local
-wget -O /usr/local/bin/dnstun https://raw.githubusercontent.com/maxexcloo/DNS-Tunnel/master/dnstun
+wget -O /usr/local/bin/dnstun https://raw.githubusercontent.com/YoBnEb/DNS-Tunnel/master/dnstun
 wget -O /usr/local/bin/dnstun-init https://raw.githubusercontent.com/maxexcloo/DNS-Tunnel/master/dnstun-init
 
 # Set Permissions
