@@ -75,10 +75,10 @@ mkdir sniproxy
 cd sniproxy
 
 # Download Source
-wget https://www.github.com/dlundquist/sniproxy/archive/$SNIPROXY_VERSION.tar.gz
+wget https://github.com/dlundquist/sniproxy/archive/0.3.6.tar.gz
 
 # Extract Source
-tar xfz $SNIPROXY_VERSION.tar.gz
+tar xfz 0.3.6.tar.gz
 
 # Change To Directory
 cd sniproxy-*
